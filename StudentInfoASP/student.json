@@ -1,0 +1,13 @@
+﻿{
+  "Student": {
+    "FirstName": "Alex",
+    "LastName": "Leonard",
+    "Age": 16,
+    "Disciplines": [
+      "Math",
+      "Eng",
+      "Physic",
+      "Computer Science"
+    ]
+  }
+}
